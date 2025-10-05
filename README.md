@@ -4,7 +4,7 @@
 
 # Dataset
 Primary dataset: Memotion 3.0 (10K annotated Hinglish memes).
-Dataset is obtained from: 
+Dataset is obtained from: https://aiisc.ai/defactify2/Memotion.html, https://drive.google.com/drive/folders/19yaav8ORSVj9DeJUaHKq1H3HtVnkClBw
 
 # Inputs:
 OCR-extracted text (noisy, code-mixed Hinglish).
