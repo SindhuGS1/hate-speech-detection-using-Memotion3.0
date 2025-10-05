@@ -15,12 +15,12 @@ Labels: Hate vs Non-Hate.
 ### Models Implemented
 
 #### Baselines:
-Logistic Regression (TF-IDF + ResNet50).
-SVM (TF-IDF + ResNet50).
+1. Logistic Regression (TF-IDF + ResNet50).
+2. SVM (TF-IDF + ResNet50).
 
 #### Transformer Models:
-VisualBERT (BERT + ViT).
-VisualBERT (XLM-RoBERTa + CLIP).
+1. VisualBERT (BERT + ViT).
+2. VisualBERT (XLM-RoBERTa + CLIP).
 
 #### Task A: To predict the hate/non-hate labels for test data.
 #### Task B: To evaluate the test results obtained by fetching labels from chatGPT and record the metrics. Analyse and evaluate the best model.
